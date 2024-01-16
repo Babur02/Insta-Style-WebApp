@@ -1,3 +1,4 @@
+require('dotenv').config();
 const mongoose = require('mongoose');
 const plm = require('passport-local-mongoose');
 
@@ -13,7 +14,7 @@ db.on('error', (error) => {
 });
 
 db.once('open', () => {
-  console.log('Connected to MongoDB');
+  console.log('Connected to MongoDB',process.env.PORT);
 });
 
 

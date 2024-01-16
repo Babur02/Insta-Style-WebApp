@@ -27,15 +27,15 @@ Welcome to the Instagram-style web app! This project is a full-stack web applica
 
 1. **Clone the repository:**
    ```bash
-   git clone [your_repository_url]
+   git clone https://github.com/Babur02/instaclone
 
 2. **Install dependencies:**
     npm install
 
 3. **Run the application**
-    npx nodemon
+    npm start
 
 The app will be accessible at http://localhost:3000.
 
 ## Deployment
-The application is deployed on AWS. Check it out live here.
+The application is deployed on AWS. Check it out live [here].
