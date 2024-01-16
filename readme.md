@@ -33,7 +33,7 @@ Welcome to the Instagram-style web app! This project is a full-stack web applica
     npm install
 
 3. **Run the application**
-    npx nodemon
+    npm start
 
 The app will be accessible at http://localhost:3000.
 
