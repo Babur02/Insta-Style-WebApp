@@ -27,7 +27,7 @@ Welcome to the Instagram-style web app! This project is a full-stack web applica
 
 1. **Clone the repository:**
    ```bash
-   git clone [(https://github.com/Babur02/instaclone)]
+   git clone https://github.com/Babur02/instaclone
 
 2. **Install dependencies:**
     npm install
