@@ -38,4 +38,4 @@ Welcome to the Instagram-style web app! This project is a full-stack web applica
 The app will be accessible at http://localhost:3000.
 
 ## Deployment
-The application is deployed on AWS. Check it out live [here].
+The application is deployed on AWS. Check it out live http://surl.li/pkbbs
