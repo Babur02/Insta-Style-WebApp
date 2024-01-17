@@ -1,4 +1,6 @@
 var express = require("express");
+const expressSession = require('express-session');
+const MemoryStore = require('memorystore')(expressSession);
 var router = express.Router();
 const userModel = require("./users");
 const postModel = require("./post");
